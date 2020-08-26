@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey Everyone, I am Ed, a security engineer who is still learning 👋
+
+🌱 I’m currently learning C#, Python, and Java on the coding side.  I am also trying to grow my skills as a security engineer/ architect 
 
 <!--
 **celendial/celendial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +8,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning C#, Python, and Java on the coding side.  I am also trying to grow my skills as a security engineer/ architect 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
